@@ -1,0 +1,46 @@
+/* Add some basic styles to the login form */
+body {
+    font-family: Arial, sans-serif;
+    background-color: aquamarine;
+  }
+  
+  form {
+    border: 1px solid #ccc;
+    padding: 10px;
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  
+  label, input {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  button[type="submit"] {
+    margin-top: 10px;
+  }
+  #login-form{
+    margin : 135px auto;
+    padding : 80px;
+    background-color: rgb(111, 170, 197);
+  }
+  #us {
+    font-size: 30px;
+    font-family:monospace ;
+  }
+  #ps{
+    font-size: 30px;
+    font-family:monospace ;
+  }
+  #login{
+    font-size: 20px;
+    font-family:monospace ;
+  }
+  #username {
+    font-size: 25px;
+    font-weight: 100px;
+  }
+  #password{
+    font-size: 25px;
+    font-weight: 100px;
+  }
